@@ -1,15 +1,16 @@
 # Fashion-clothes-Recoginition--using-CNN
 Fashion-Clothes-Recoginition--using-CNN
 
----
-
+[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=102)](https://github.com/kanishksh4rma/Parkinson-Disease-Prediction-in-Early-Stages) [![Code Climate](https://codeclimate.com/github/boennemann/badges.svg)](https://github.com/kanishksh4rma/Parkinson-Disease-Prediction-in-Early-Stages)
+ 
+ ---
 
 ## **Installation**
 
 ### Copy and Run this in terminal: 
 
 ```
-pip3 install -r requirements.txt
+pip3 install keras pandas matplotlib
 
 git clone https://github.com/kanishksh4rma/Fashion-clothes-Recoginition--using-CNN.git
 ```
@@ -46,6 +47,7 @@ The Algorithms used are :
 
 ---
 
-> Developed by: [Kanishk Sharma](github.com/kanishksh4rma)
+> Developed by: [Kanishk Sharma](github.com/kanishksh4rma) 
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/kanishksh4rma/Parkinson-Disease-Prediction-in-Early-Stages)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-python.svg)](https://github.com/kanishksh4rma/Parkinson-Disease-Prediction-in-Early-Stages)[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/kanishksh4rma/Parkinson-Disease-Prediction-in-Early-Stages)
+
